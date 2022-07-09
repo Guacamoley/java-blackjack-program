@@ -1,9 +1,3 @@
-/**Blackjack Project
- * Michael Ha
- * Spring 2021
- * CSCI 2001-51
- */
-
 package tests;
 
 import deck.Deck;
